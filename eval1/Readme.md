@@ -6,7 +6,7 @@ Hola:)<br />
 - .main <br />
 
 
-En el cpp están todas las funciones (las cuales tienen detallado su uso). <br />
+En el cpp están todas las funciones *(las cuales tienen detallado su uso)*. <br />
 En el .h están declaradas las variables y funciones. <br />
 En el main está todo lo que se observa en la consola. <br />
 
@@ -17,7 +17,7 @@ En el main está todo lo que se observa en la consola. <br />
 - g++ cifrar.cpp main.cpp <br />
 
 **y luego:** <br />
--.\a.exe <br />
+- .\a.exe <br />
 
 
 
