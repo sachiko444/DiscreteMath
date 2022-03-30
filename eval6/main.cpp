@@ -37,19 +37,6 @@ int main(int argc, char** argv) {
     std::vector<int> x;
     x.push_back(1);
 
-/*convertir array de char en int    
-    int num = std::atoi(bin);
-*/
-/*Convertir int en array de ints
-    std::vector<int> bin2;
-    while (num)
-    {
-        bin2.push_back(num % 10);
-
-        num /= 10;
-    }
-    std::reverse(bin2.begin(), bin2.end());
-*/
 
     for(int i=0; i<=strlen(bin); i++) {
         if((bin[i]) == '0') {
